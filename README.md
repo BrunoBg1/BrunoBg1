@@ -20,6 +20,21 @@ Sou apaixonado por tecnologia. Estou em busca da minha primeira oportunidade pro
             src="https://custom-icon-badges.demolab.com/github/followers/BrunoBg1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="mailto:oliveira30rs@gmail.com">
+        <img 
+            alt="Gmail" 
+            title="Enviar e-mail via Gmail"
+            src="https://custom-icon-badges.demolab.com/badge/Gmail-%23E05D44.svg?logo=mail&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/bruno-oliveira-4504a4225/" target="_blank" rel="noopener noreferrer">
+        <img 
+            alt="LinkedIn" 
+            title="Visite meu perfil no LinkedIn"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0072b1"
+        />
+    </a>
+    
 </p>
 
 ### 🤖 Linguagens e Tecnologias
