@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-Olá, meu nome é Bruno Oliveira de Jesus, tenho 20 anos e sou de Santos-SP. Sou técnico em Desenvolvimento de Sistemas, formado pela ETEC Doutora Ruth Cardoso, e atualmente estou cursando Ciência da Computação na Universidade Paulista (UNIP). <br>
+Olá, me chamo Bruno Oliveira de Jesus, tenho 20 anos e sou de Santos-SP. Sou técnico em Desenvolvimento de Sistemas, formado pela ETEC Doutora Ruth Cardoso, e atualmente estou cursando Ciência da Computação na Universidade Paulista (UNIP). <br>
 Sou apaixonado por tecnologia e tenho um grande interesse em aprender e contribuir com soluções inovadoras. Estou em busca da minha primeira oportunidade profissional na área de tecnologia, onde possa sair da teoria, colocar em pratica meus conhecimentos e crescer como desenvolvedor. 
 
 <p align="left">
