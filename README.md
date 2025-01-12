@@ -2,8 +2,8 @@
 
 **`Desenvolvedor`**
 
-Me chamo Bruno Oliveira de Jesus, tenho 20 anos e sou natural de Santos. Concluí o curso técnico em Desenvolvimento de Sistemas pela ETEC Doutora Ruth Cardoso. Atualmente, estou cursando Ciência da Computação na Universidade Paulista - UNIP.
-Sou apaixonado por tecnologia. Estou em busca da minha primeira oportunidade profissional na área de tecnologia.
+Olá, meu nome é Bruno Oliveira de Jesus, tenho 20 anos e sou de Santos-SP. Sou técnico em Desenvolvimento de Sistemas, formado pela ETEC Doutora Ruth Cardoso, e atualmente estou cursando Ciência da Computação na Universidade Paulista (UNIP).
+Sou apaixonado por tecnologia e tenho um grande interesse em aprender e contribuir com soluções inovadoras. Estou em busca da minha primeira oportunidade profissional na área de tecnologia, onde possa sair da teoria, colocar em pratica meus conhecimentos e crescer como desenvolvedor. 
 
 <p align="left">
     <a href="https://github.com/BrunoBg1?tab=repositories&sort=stargazers">
